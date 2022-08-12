@@ -10,9 +10,9 @@ import random
 from itertools import cycle
 
 
-TESTING_GUILD_ID = 944494522132496435
+TESTING_GUILD_ID = *********
 
-token = "MTAwNTAyNTE4OTgwMjgwMzIwMQ.GfrasH.hIJZ5ga-g0jFaTzIa2EtFWuU-7HrAC3Zhgoi_4"
+token = "***************"
 
 
 bot = commands.Bot()
