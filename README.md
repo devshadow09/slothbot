@@ -17,4 +17,4 @@ the current features are:-
 4. new logo
 5. AI name generator
 
-#You are free to use this code in your projects , without credits too.
+# You are free to use this code in your projects , without credits too.
