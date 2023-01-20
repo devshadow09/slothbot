@@ -1,8 +1,8 @@
-# shadow.py
-shadow.py is an open sourced discord bot made using nextcord python framework
+# SlothBot
+Slothbot is an open sourced discord bot made using nextcord python framework
 
-#vision of shadow.py
-the vision of shadow.py is to make a fun bot , not a bot rigged with management commands. this is because discord has already implemented these features in their app
+#vision of slothbot
+the vision of slothbot is to make a fun bot , not a bot rigged with management commands. this is because discord has already implemented these features in their app
 
 # current features
 the current features are:-
@@ -12,9 +12,7 @@ the current features are:-
 
 # features to be added
 1. meme creation tool
-2. economy/currency
 3. welcome image
 4. new logo
 5. AI name generator
 
-# You are free to use this code in your projects , without credits too.
