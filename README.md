@@ -1,7 +1,7 @@
 # SlothBot
 Slothbot is an open sourced discord bot made using nextcord python framework
 
-#vision of slothbot
+# vision of slothbot
 the vision of slothbot is to make a fun bot , not a bot rigged with management commands. this is because discord has already implemented these features in their app
 
 # current features
